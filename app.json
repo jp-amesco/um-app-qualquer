@@ -1,0 +1,8 @@
+{
+  "name": "Um app qualquer",
+  "description": "Um app qualquer",
+  "repository": "https://github.com/jp-amesco/um-app-qualquer",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": ""
+}
